@@ -1,0 +1,14 @@
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\bin\Debug\net8.0\TUGs.exe
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\bin\Debug\net8.0\TUGs.deps.json
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\bin\Debug\net8.0\TUGs.runtimeconfig.json
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\bin\Debug\net8.0\TUGs.dll
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\bin\Debug\net8.0\TUGs.pdb
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\obj\Debug\net8.0\TUGs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\obj\Debug\net8.0\TUGs.AssemblyInfoInputs.cache
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\obj\Debug\net8.0\TUGs.AssemblyInfo.cs
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\obj\Debug\net8.0\TUGs.csproj.CoreCompileInputs.cache
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\obj\Debug\net8.0\TUGs.dll
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\obj\Debug\net8.0\refint\TUGs.dll
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\obj\Debug\net8.0\TUGs.pdb
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\obj\Debug\net8.0\TUGs.genruntimeconfig.cache
+C:\Users\eng online\Desktop\Eng Online - marcus\teste\cteste\TUGs\obj\Debug\net8.0\ref\TUGs.dll
